@@ -1,6 +1,6 @@
 # EVE1
 
-This was the first pilot study for EVE. It was designed to run a program that could both run an experiment and analyse data from the experiment.
+This was the first pilot study for EVE. It was designed to run a program that could both run an experiment and analyse data from the experiment. This project has since been halted, so the code is not finalised.
 
 It has a GUI that allows you to determine which way to run the program, as well as walking you through the steps.
 
